@@ -7,3 +7,4 @@
 ##实验过程
 创建一个CPU对象
 将cpu的speed设置为2200
+创建一个HardDisk对象
